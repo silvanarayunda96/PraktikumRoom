@@ -127,4 +127,18 @@ Abstract class yang mengimplementasikan Singleton Pattern untuk menghindari mult
 
 ## 📸 Screenshot
 
-*(Tambahkan screenshot aplikasi Anda di sini)*
+### CREATE
+![Screenshot CREATE](create.jpg)
+
+### READ
+![Screenshot READ](read.jpg)
+
+### UPDATE
+![Screenshot UPDATE](update.jpg)
+
+### DELETE
+![Screenshot DELETE](delete.jpg)
+
+### LANDSCAPE
+![Screenshot LANDSCAPE](landscape.jpg)
+

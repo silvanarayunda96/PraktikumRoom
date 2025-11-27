@@ -117,28 +117,3 @@ Abstract class yang mengimplementasikan Singleton Pattern untuk menghindari mult
 5. DAO melakukan operasi di Room Database
 6. Perubahan data dipancarkan melalui Flow
 7. UI secara otomatis ter-update
-
-## ⚠️ Catatan Penting
-
-- Semua operasi database (INSERT, UPDATE, DELETE) harus dilakukan secara **asinkron** menggunakan `suspend function`
-- Operasi READ menggunakan **Flow** untuk observasi real-time
-- Database menggunakan **Singleton Pattern** untuk menghindari masalah concurrency
-- **NEVER** melakukan operasi database di Main Thread (akan menyebabkan ANR)
-
-## 📸 Screenshot
-
-### CREATE
-![Screenshot CREATE](create.png)
-
-### READ
-![Screenshot READ](read.png)
-
-### UPDATE
-![Screenshot UPDATE](update.png)
-
-### DELETE
-![Screenshot DELETE](delete.png)
-
-### LANDSCAPE
-![Screenshot LANDSCAPE](landscape.png)
-

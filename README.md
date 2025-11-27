@@ -128,17 +128,17 @@ Abstract class yang mengimplementasikan Singleton Pattern untuk menghindari mult
 ## 📸 Screenshot
 
 ### CREATE
-![Screenshot CREATE](create.jpg)
+![Screenshot CREATE](create.png)
 
 ### READ
-![Screenshot READ](read.jpg)
+![Screenshot READ](read.png)
 
 ### UPDATE
-![Screenshot UPDATE](update.jpg)
+![Screenshot UPDATE](update.png)
 
 ### DELETE
-![Screenshot DELETE](delete.jpg)
+![Screenshot DELETE](delete.png)
 
 ### LANDSCAPE
-![Screenshot LANDSCAPE](landscape.jpg)
+![Screenshot LANDSCAPE](landscape.png)
 

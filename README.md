@@ -77,6 +77,9 @@ Pengguna dapat mencentang checkbox untuk menandai tugas sebagai selesai. Tugas y
 ### 4. DELETE (Hapus Tugas)
 Pengguna dapat menghapus tugas dengan menekan tombol ikon tempat sampah (🗑️).
 
+### 5. EDIT (Edit Tugas)
+Pengguna dapat mengedit dan mengganti nama tugas yang sebelumnya.
+
 ## 🚀 Cara Menjalankan
 
 1. **Clone atau download proyek**
